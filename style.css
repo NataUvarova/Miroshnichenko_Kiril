@@ -1,0 +1,66 @@
+body{
+  font-family:Comic Sans MS;
+  background-color:#393c4d;
+  color:#fffdfc;
+  margin: 0px;
+  padding: 0px;
+}
+header{
+    background-color:#ff0000 ;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #eaff03;
+}
+nav a{
+    color:#fffdfc;
+    text-decoration:none;
+    margin:10px;
+    background-color:#2d3ab3;
+    padding: 10px 20px;
+    border-radius:10px;
+}
+
+/*Зроби цей сайт красивим 😉*/
+main {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #222;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: #eaff03;
+    border-bottom: 2px solid #eaff03;
+    padding-bottom: 5px;
+}
+
+p, li {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+img {
+    
+    margin: 20px auto;
+    border-radius: 12px;
+    max-width: 100%;
+}
+
+footer {
+    background-color:#0992;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+iframe {
+    
+    margin: 20px auto 0 auto;
+    max-width: 100%;
+    border-radius: 12px;
+}
